@@ -3,10 +3,8 @@ A small fan-made C++ game inspired by *JoJo’s Bizarre Adventure*, recreating D
 The game is made **directly with the Windows API (WinAPI) and GDI** — no Unity, no Unreal Engine, and no big game engines. Just C++ and native Windows technologies.
 🎬 Anime vs. Game
 
-
-[https://github.com/ANDERSONSOLO/RayCastTest/blob/ec5e044bbc3c0f373223a38334334c65eec41ab4/GIF/anime.gif]
-[https://github.com/ANDERSONSOLO/RayCastTest/blob/ec5e044bbc3c0f373223a38334334c65eec41ab4/GIF/game.gif]
-
+![](https://github.com/ANDERSONSOLO/RayCastTest/blob/ec5e044bbc3c0f373223a38334334c65eec41ab4/GIF/anime.gif)
+![](https://github.com/ANDERSONSOLO/RayCastTest/blob/ec5e044bbc3c0f373223a38334334c65eec41ab4/GIF/game.gif)
 The idea is simple: stop time, face your enemies, and try to defeat them before time starts moving again. The project focuses on recreating the atmosphere and visual style of DIO's iconic ability.
 
 ## ✨ Features
